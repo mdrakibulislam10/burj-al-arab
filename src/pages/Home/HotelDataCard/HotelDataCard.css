@@ -1,0 +1,8 @@
+.hotel-card {
+    border: 2px solid gray;
+    padding: 12px;
+    border-radius: 12px;
+    text-align: start;
+    background-color: lightblue;
+    margin: 15px 0;
+}
