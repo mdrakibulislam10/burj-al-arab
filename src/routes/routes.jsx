@@ -14,7 +14,8 @@ const router = createBrowserRouter([
             {
                 path: "/",
                 element: <Home />,
-                loader: () => fetch("http://localhost:5000/hotelData"),
+                // loader: () => fetch("http://localhost:5000/hotelData"),
+                loader: () => fetch("/data/hotelBooking.json"),
             },
             {
                 path: "/book",

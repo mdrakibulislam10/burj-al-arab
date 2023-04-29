@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "hotelName": "Hotel A",
+        "location": "City A",
+        "price": 100,
+        "availability": true,
+        "img": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "id": "2",
+        "hotelName": "Hotel B",
+        "location": "City B",
+        "price": 150,
+        "availability": false,
+        "img": "https://static01.nyt.com/images/2019/03/24/travel/24trending-shophotels1/24trending-shophotels1-superJumbo.jpg"
+    },
+    {
+        "id": "3",
+        "hotelName": "Hotel C",
+        "location": "City C",
+        "price": 200,
+        "availability": true,
+        "img": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    }
+]
